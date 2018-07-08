@@ -1,0 +1,13 @@
+#if defined( __cplusplus )
+    #include <opencv2/opencv.hpp>
+    #include <opencv2/xfeatures2d.hpp>
+    #include "cinder/Cinder.h"
+    #include "cinder/app/App.h"
+    #include "cinder/app/RendererGl.h"
+    #include "cinder/gl/gl.h"
+    #include "cinder/CameraUi.h"
+    #include "cinder/CinderMath.h"
+    #include "cinder/Matrix.h"
+    #include "cinder/Vector.h"
+    #include "cinder/Quaternion.h"
+#endif
