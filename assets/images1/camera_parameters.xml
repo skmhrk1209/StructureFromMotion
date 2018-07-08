@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<intrinsic_matrix>
+    <a>2759.48</a>
+    <b>0</b>
+    <c>1520.6900000000001</c>
+    <d>0</d>
+    <e>2764.1599999999999</e>
+    <f>1006.8099999999999</f>
+    <g>0</g>
+    <h>0</h>
+    <i>1</i>
+</intrinsic_matrix>
+<distortion_coefficients>
+    <a>0</a>
+    <b>0</b>
+    <c>0</c>
+    <d>0</d>
+</distortion_coefficients>
